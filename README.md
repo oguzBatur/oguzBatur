@@ -27,7 +27,7 @@
 
 ## Topics I Will be Learning
 ---
-### 1. **VueuJs**
+### 1. **VueJs**
 ### 2. **AngularJs**
 ### 3. **Software development with Electron**
 ### 4. **Blockchain**
