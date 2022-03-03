@@ -7,19 +7,11 @@
 
 ## Ongoing Projects
 ---
-### 1. **A Twitter Clone**
-
-> The Feautures I'll be adding are;
-> 
-> - Login and Signup
-> - Sharing Posts
-> - Be followed by or follow other users.
->
-### 2. **E-commerce Website**
+### 1. **E-commerce Website**
 > Features to be added;
 >
-> - Login, Signup
-> - 10 - 20 UI Components
+> - Login, Signup -> Done!
+> - 10 - 20 UI Components 
 > - Ability to add items to card
 > - Paying for items with Stripe
 
@@ -27,8 +19,8 @@
 
 ## Topics I Will be Learning
 ---
-### 1. **VueJs**
-### 2. **AngularJs**
+### 1. **Firebase**
+### 2. **More knowledge in NextJS**
 ### 3. **Software development with Electron**
 ### 4. **Blockchain**
 
