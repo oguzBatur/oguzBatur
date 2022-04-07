@@ -7,22 +7,15 @@
 
 ## Ongoing Projects
 ---
-### 1. **E-commerce Website**
-> Features to be added;
->
-> - Login, Signup -> Done!
-> - 10 - 20 UI Components 
-> - Ability to add items to card
-> - Paying for items with Stripe
+### 1. **Notal**
+> A markdown text editor currently being developed with Rust.
 
 <br>
 
 ## Topics I Will be Learning
 ---
-### 1. **Firebase**
-### 2. **More knowledge in NextJS**
-### 3. **Software development with Electron**
-### 4. **Blockchain**
+### 1. **Software Development using Rust.**
+### 3. **Blockchain**
 
 <br>
 
