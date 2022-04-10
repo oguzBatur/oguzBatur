@@ -14,8 +14,8 @@
 
 ## Topics I Will be Learning
 ---
-### 1. **Software Development using Rust.**
-### 3. **Blockchain**
+### 1. **Software Development using Rust, OpenGL**
+### 2. **Blockchain**
 
 <br>
 
