@@ -2,7 +2,7 @@
 
 
 
-## Hello My name is Batur and I'm a Computer Programming Student who likes to build websites
+## Hello, My name is Batur and I'm a Computer Programming Student who likes to build things with various languages =)
 
 
 ## Ongoing Projects
