@@ -3,21 +3,7 @@
 
 
 ## Hello, My name is Batur and I'm a Computer Programming Student who likes to build things with various languages =)
-
-
-## Ongoing Projects
----
-### 1. **Notal**
-> A markdown text editor currently being developed with Rust.
-
-<br>
-
-## Topics I Will be Learning
----
-### 1. **Software Development using Rust, OpenGL**
-### 2. **Blockchain**
-
-<br>
+> I'm currently interested in Rust and Computer graphics. I'm also developing a simple blog with Actix-rs as the backend and SolidJS as the frontend. 
 
          
 
