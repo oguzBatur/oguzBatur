@@ -2,7 +2,7 @@
 
 
 
-## Hello, My name is Batur and I like to build things with various languages =)
+## Hello, I'm YellowDev and I like to build things with various languages =)
 > Currently interested in Bash and Python
          
 
